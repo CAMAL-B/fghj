@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id=",|Zo3^$-Ec,CNByIxL@U" x="0" y="0"><statement name="HANDLER"><block type="basic_show_arrow" id="6b,!?7f/o}|T06ycpH8u"><value name="i"><shadow type="device_arrow" id="%vP{3/Bk}AkL[,eJmh]Y"><field name="arrow">ArrowNames.NorthEast</field></shadow></value></block></statement></block><block type="pxt-on-start" id="ew#Bp8},3}GM/,d4A8dz" x="-89" y="147"><statement name="HANDLER"><block type="device_show_leds" id="0PN^1-[(ckDO5Yj%2w%9"><field name="LEDS">`
+        # # # # # 
+        . # . # . 
+        # # # # # 
+        . # . # . 
+        # # # # #
+        `</field><next><block type="device_print_message" id="AkWvVPj^}yG$zJYJBsoH"><value name="text"><shadow type="text" id="3f6)E*e#[:.,O3y^bz-J"><field name="TEXT">vizer game</field></shadow></value></block></next></block></statement></block></xml>
